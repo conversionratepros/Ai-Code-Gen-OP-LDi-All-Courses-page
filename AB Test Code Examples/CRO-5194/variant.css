@@ -1,0 +1,691 @@
+html body section#courses section.has_eae_slider {
+    display: none;
+}
+
+html body.cro-t-57_58 section#courses.has_eae_slider {
+    visibility: hidden;
+    height: 0;
+    /* margin: 0; */
+}
+
+html body.cro-t-57_58 .cro-container {
+    width: 100%;
+    max-width: 1296px;
+    margin: 0 auto;
+}
+
+@media (max-width: 1330px) {
+    html body.cro-t-57_58 .cro-container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+@media (max-width: 1024px) {
+    html body.cro-t-57_58 .cro-container {
+        padding-left: 54px;
+        padding-right: 54px;
+    }
+}
+
+@media (max-width: 767px) {
+    html body.cro-t-57_58 .cro-container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+
+@media (min-width: 768px) {
+    html body.cro-t-57_58 section[data-id="6a886dd"] {
+        margin-top: 100px;
+    }
+}
+
+@media (max-width: 767px) {
+    html body.cro-t-57_58 section[data-id="0218a36"] {
+        display: none;
+    }
+
+    html body.cro-t-57_58 section [data-id="6a886dd"] {
+        margin-top: 50px;
+    }
+}
+
+
+html body.cro-t-57_58 section.cro-t-57_58-top-banner {
+    background: #f7f7f7;
+}
+
+/* html body.cro-t-57_58 .cro-t-57_58-top-banner-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 0;
+    gap: 30px;
+    width: 100%;
+    max-width: 644px;
+    margin: 0 auto;
+} */
+
+html body.cro-t-57_58 .cro-t-57_58-top-banner-heading-top {
+    font-family: "Poppins", Sans-serif;
+    color: var(--LDi-sky_blue, #00a9e0);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 3.6px;
+}
+
+html body.cro-t-57_58 .cro-t-57_58-top-banner-main-heading {
+    color: var(--LDi-dark_blue, #1e1a34);
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 48px;
+}
+
+html body.cro-t-57_58 .cro-t-57_58-top-banner-sub-heading {
+    color: var(--LDi-dark_blue, #1e1a34);
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+@media (max-width: 1024px) {
+    html body.cro-t-57_58 .cro-t-57_58-top-banner-inner {
+        align-items: flex-start;
+        gap: 30px;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    html body.cro-t-57_58 .cro-t-57_58-top-banner-heading-top {
+        text-align: left;
+        font-size: 16px;
+        line-height: 22px;
+        letter-spacing: 3.2px;
+    }
+
+    html body.cro-t-57_58 .cro-t-57_58-top-banner-main-heading {
+        text-align: left;
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    html body.cro-t-57_58 .cro-t-57_58-top-banner-sub-heading {
+        font-size: 16px;
+        line-height: 22px;
+        text-align: left;
+    }
+
+    html body.cro-t-57_58 .cro-t-57_58-top-banner-heading {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+}
+
+/* --------New-Diploma-card----- */
+
+/* html body.cro-t-57_58 .cro-t-86-Diploma-card-container {
+    gap: 59px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1300px;
+    padding-top: 100px;
+} */
+
+html body.cro-t-57_58 .cro-t-86-Diploma-card {
+    /* border-radius: 9px; */
+    /* background: #fff; */
+    border-radius: 9px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 409px;
+    gap: 17px;
+    height: fit-content;
+    border-radius: 9px;
+    border: 1px solid #E4E3E3;
+    background: #FFF;
+}
+
+html body.cro-t-57_58 .cro-t-86-Diploma-card-top-part {
+    padding: 41px 16px 25px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+}
+
+html body.cro-t-57_58 .cro-t-86-Diploma-card-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+html body.cro-t-57_58 img.cro-Diploma-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+html body.cro-t-57_58 h3.cro-t-86-Diploma-card-main-header {
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0;
+    font-family: "Poppins", Sans-serif;
+}
+
+html body.cro-t-57_58 .cro-t-86-Diploma-card-main-sub-header {
+    color: #505050;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    font-family: "Poppins", Sans-serif;
+}
+
+html body.cro-t-57_58 .cro-t-57-header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+    z-index: 9;
+    background: #fff;
+}
+
+html body.cro-t-57_58 .cro-t-57-header-text {
+    color: #505050;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1;
+}
+
+html body.cro-t-57_58 .cro-t-57-drop-down {
+    max-height: 0;
+    transition: max-height 0.4s ease;
+    overflow: hidden;
+    background: #fff;
+    display: flex;
+    align-items: flex-start;
+}
+
+html body.cro-t-57_58 .croShow .cro-t-57-drop-down {
+    max-height: 400px;
+}
+
+html body.cro-t-57_58 .cro-t-57-header-icon {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+/* html body.cro-t-57_58 .cro-t-57-content.cro-t-57-content1 {
+    background-color: #f1f1f1;
+    border-bottom: 1px solid #e4e3e3;
+} */
+
+/* html body.cro-t-57_58 .cro-t-57-content.cro-t-57-content2 {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #e4e3e3;
+}
+
+html body.cro-t-57_58 .cro-t-57-content.cro-t-57-content3 {
+    background-color: #f2f2f2;
+} */
+
+html body.cro-t-57_58 .cro-t-57-content.croShow svg.cro-faq-close-icon {
+    display: none;
+}
+
+html body.cro-t-57_58 .cro-t-57-content:not(.croShow) svg.cro-faq-open-icon {
+    display: none;
+}
+
+/* html body.cro-t-57_58 .cro-t-57-content-button-course {
+    border-radius: 0px 0px 5px 5px;
+    border-top: 1px solid #e4e3e3;
+    background: #00a9e0;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+html body.cro-t-57_58 .cro-t-57-content-button-course:hover {
+    opacity: 50%;
+} */
+/* 
+html body.cro-t-57_58 a.cro-t-57-button {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1;
+    padding: 25px 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+html body.cro-t-57_58 li.cro-t-57-drop-down-list {
+    color: #505050;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+html body.cro-t-57_58 .cro-t-57-show-more,
+html body.cro-t-57_58 .cro-t-57-show-less {
+    color: #5c4646;
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: underline;
+    cursor: pointer;
+    width: fit-content;
+    margin: 16px 0;
+}
+
+html body.cro-t-57_58 .cro-t-57-content.cro-show_more .cro-t-57-show-more {
+    display: none;
+}
+
+html body.cro-t-57_58 .cro-t-57-content.cro-show_more .cro-t-57-show-less {
+    display: block !important;
+}
+
+html body.cro-t-57_58 .cro-t-57-content:not(.cro-show_more) .cro-t-57-show-less {
+    display: none;
+}
+
+html body.cro-t-57_58 .cro-t-57-content:not(.cro-show_more) .cro-t-57-show-more {
+    display: block !important;
+}
+
+html body.cro-t-57_58.hideBtn .cro-t-57-content:not(.cro-show_more) .cro-t-57-show-more {
+    display: none !important;
+}
+
+html body.cro-t-57_58 .cro-t-57-drop-down-text .cro-t-57-drop-down-ul {
+    margin-left: 20px;
+    margin-bottom: 0;
+    width: 100%;
+}
+
+html body.cro-t-57_58 .Diploma-1 .cro-t-57-content2.cro-show_more .cro-t-57-drop-down {
+    max-height: 310px !important;
+}
+
+html body.cro-t-57_58 .Diploma-1 .cro-t-57-content3.cro-show_more .cro-t-57-drop-down {
+    max-height: 260px !important;
+}
+
+html body.cro-t-57_58 .Diploma-3 .cro-t-57-content2.cro-show_more .cro-t-57-drop-down {
+    max-height: 200px !important;
+}
+
+html body.cro-t-57_58 .Diploma-3 .cro-t-57-content3.cro-show_more .cro-t-57-drop-down {
+    max-height: 230px !important;
+}
+
+html body.cro-t-57_58 .Diploma-2 .cro-t-57-content3.cro-show_more .cro-t-57-drop-down {
+    max-height: 284px !important;
+}
+
+html body.cro-t-57_58 .cro-t-57-drop-down-text {
+    padding: 0 20px 20px 24px;
+    height: 100%;
+    display: flex;
+    width: 100%;
+}
+
+/* html body.cro-t-57_58 .elementor-button-wrapper a.elementor-button.elementor-button-link[href="#courses"] {
+    display: none;
+} */
+
+html body.cro-t-57_58 .cro-clone-button {
+    cursor: pointer;
+}
+
+html body.cro-t-57_58 .cro-clone-button:hover {
+    opacity: 50%;
+}
+
+@media (min-width: 950px) {
+    html body.cro-t-57_58 .cro-t-57-content1 .cro-t-57-drop-down .cro-t-57-drop-down-text {
+        min-height: 210px;
+    }
+
+    html body.cro-t-57_58 .cro-t-57-content2 .cro-t-57-drop-down .cro-t-57-drop-down-text {
+        min-height: 285px;
+    }
+
+    html body.cro-t-57_58 .cro-t-57-content3 .cro-t-57-drop-down .cro-t-57-drop-down-text {
+        min-height: 260px;
+    }
+}
+
+@media (max-width: 950px) {
+    html body.cro-t-57_58 .cro-t-86-Diploma-card-container {
+        flex-direction: column;
+        margin: 0 auto;
+        align-items: center;
+    }
+}
+
+@media (max-width: 767px) {
+    html body.cro-t-57_58 .cro-t-86-Diploma-card-container {
+        gap: 48px;
+        padding-top: 50px;
+    }
+
+    h3.cro-t-86-Diploma-card-main-header {
+        font-size: 16px;
+    }
+
+    html body.cro-t-57_58 .cro-t-86-Diploma-card-main-sub-header {
+        font-size: 16px;
+    }
+
+    html body.cro-t-57_58 .cro-t-57-header-text {
+        font-size: 16px;
+    }
+
+    html body.cro-t-57_58 li.cro-t-57-drop-down-list {
+        font-size: 16px;
+    }
+}
+
+html body.cro-t-57_58 .cro57_58-left-part-next::after {
+    display: none;
+}
+
+html body.cro-t-57_58 .cro57_58-left-part-prev::after {
+    display: none;
+}
+
+html body.cro-t-57_58 .cro-t-86-Diploma-card-container {
+    /* flex-direction: column; */
+    /* margin: 0 auto; */
+    /* align-items: center; */
+    width: 100%;
+    padding-top: 50px;
+}
+
+html body.cro-t-57_58 .cro-t-86-left-part-inner-swiper {
+    /* padding: 0 50px; */
+    position: relative;
+}
+
+html body.cro-t-57_58 .cro-t-86-Diploma-cards {
+    /* margin-top: 0px; */
+    margin-bottom: 0;
+    padding: 0;
+}
+
+html body.cro-t-57_58 .cro57_58-Diploma-card-heading-text {
+    color: #1E1A34;
+    text-align: center;
+
+    /* H2 */
+    padding: 0 30px;
+
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 42px;
+    /* 131.25% */
+}
+
+html body.cro-t-57_58 .cro57_58-Diploma-card-subheading-text {
+    color: var(--LDi-dark_blue, #1E1A34);
+    text-align: center;
+
+    /* Paragraph 1 */
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    /* 144.444% */
+}
+
+html body.cro-t-57_58 .cro57_58-Diploma-card-heading-subheading-wrapper {
+    width: 100%;
+    max-width: 963px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+html body.cro-t-57_58 .cro-t-57-button.learn-more {
+    border-radius: 100px;
+    /* border-top: 1px solid #E4E3E3; */
+    background: #00A9E0;
+    /* padding: 18px 15px; */
+    color: #FFF;
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    /* height: 63px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+html body.cro-t-57_58 .cro-t-57-content-button-course {
+    display: flex;
+    flex-direction: column;
+    padding: 16px 20px 20px 20px;
+    align-items: center;
+    gap: 16px;
+
+}
+
+html body.cro-t-57_58 .cro-t-57-button {
+    width: 100%;
+    height: 63px;
+}
+
+html body.cro-t-57_58 .cro-t-57-button.enrol-now {
+    border-radius: 100px;
+    border: 2px solid #00A9E0;
+}
+
+html body.cro-t-57_58 .cro-t-57-button.enrol-now {
+    color: #00A9E0;
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+html body.cro-t-57_58 .cro-t-57-button.learn-more:hover {
+    opacity: 50%;
+}
+
+html body.cro-t-57_58 .cro-t-57-button.enrol-now:hover {
+    opacity: 50%;
+}
+
+html body.cro-t-57_58 .cro-t-57-content {
+    background-color: #fff;
+    border-bottom: 1px solid #E4E3E3;
+}
+
+/* html body.cro-t-57_58 .cro-t-57-content.croShow {
+    background-color: #f7f7f7 !important;
+} */
+
+html body.cro-t-57_58 .croShow .cro-t-57-header {
+    background-color: #f7f7f7;
+}
+
+html body.cro-t-57_58 .croShow .cro-t-57-drop-down {
+    background-color: #f7f7f7;
+}
+
+html body.cro-t-57_58 .swiper-pagination.cro57_58-pagination {
+    position: relative;
+    width: 100%;
+    top: 0;
+    margin-top: 10px;
+}
+
+html body.cro-t-57_58 .cro-t-86-Diploma-cards .swiper-pagination.cro57_58-pagination .swiper-pagination-bullet {
+    margin: 0 5px !important;
+    background-color: #00A9E0;
+    opacity: 1;
+}
+
+html body.cro-t-57_58 .cro-t-86-Diploma-cards .swiper-pagination.cro57_58-pagination .swiper-pagination-bullet-active {
+    background-color: #1E1A34;
+}
+
+html body.cro-t-57_58 .cro-t-57-drop-down-text ul {
+    margin-bottom: 0;
+    margin-left: 17px;
+}
+
+@media (min-width:1025px) {
+    html body.cro-t-57_58 .cro57_58-left-part-prev svg {
+        display: none;
+    }
+
+    html body.cro-t-57_58 .cro57_58-left-part-next svg {
+        display: none;
+    }
+
+    html body.cro-t-57_58 .swiper-wrapper.cro57_58-swiperWrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 32px !important;
+        flex-wrap: wrap;
+    }
+
+    html body.cro-t-57_58 .cro57_58-swiperWrapper .swiper-slide {
+        width: 100%;
+        max-width: 409px;
+    }
+
+    html body.cro-t-57_58 .swiper-pagination.cro57_58-pagination {
+        display: none;
+    }
+}
+
+@media (max-width:1024px) {
+    html body.cro-t-57_58 .cro-t-86-left-part-inner-swiper {
+        padding: 0 30px;
+    }
+
+    html body.cro-t-57_58 h3.cro-t-86-Diploma-card-main-header,
+    html body.cro-t-57_58 .cro-t-86-Diploma-card-main-sub-header,
+    html body.cro-t-57_58 .cro-t-57-header-text,
+    html body.cro-t-57_58 li.cro-t-57-drop-down-list {
+        font-size: 16px;
+    }
+
+    html body.cro-t-57_58 .swiper-button-prev.cro57_58-left-part-prev {
+        width: 40px;
+        height: 40px;
+        left: -18px;
+    }
+
+    html body.cro-t-57_58 .swiper-button-next.cro57_58-left-part-next {
+        width: 40px;
+        height: 40px;
+        right: -18px;
+    }
+
+    html body.cro-t-57_58 .cro-t-86-Diploma-card {
+        max-width: 100%;
+    }
+
+    html body.cro-t-57_58 .cro57_58-Diploma-card-heading-text {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    html body.cro-t-57_58 .cro57_58-Diploma-card-subheading-text {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    html body.cro-t-57_58 .cro57_58-Diploma-card-heading-subheading-wrapper {
+        gap: 15px;
+        max-width: 100%;
+    }
+
+    html body.cro-t-57_58 .cro-t-57-button.learn-more,
+    html body.cro-t-57_58 .cro-t-57-button.enrol-now {
+        font-size: 16px;
+        line-height: normal;
+    }
+
+    html body.cro-t-57_58 .cro-t-57-header {
+        gap: 5px;
+    }
+}
+
+@media (max-width:899px) {
+    html body.cro-t-57_58 .cro-t-86-Diploma-card-top-part {
+        width: 100%;
+    }
+
+    html body.cro-t-57_58 .cro-t-57-content-and-button {
+        width: 100%;
+    }
+
+    html body.cro-t-57_58 .cro-t-86-left-part-inner-swiper {
+        padding: 0 40px;
+    }
+}
+
+@media (max-width:400px) {
+    html body.cro-t-57_58 .cro-t-86-left-part-inner-swiper {
+        padding: 0 30px;
+    }
+}
